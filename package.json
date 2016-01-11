@@ -1,0 +1,31 @@
+{
+  "name": "two_way_binding",
+  "version": "0.0.1",
+  "description": "create a printable invoice using web tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adevkota/invoicegenerator.git"
+  },
+  "keywords": [
+    "invoice",
+    "generator"
+  ],
+  "author": "Ashutosh Devkota",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adevkota/invoicegenerator/issues"
+  },
+  "homepage": "https://github.com/adevkota/invoicegenerator#readme",
+  "dependencies": {
+    "bower": "1.7.2",
+    "express": "4.13.3",
+    "gulp": "3.9.0"
+  }
+}
