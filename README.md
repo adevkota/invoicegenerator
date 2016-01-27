@@ -1,3 +1,4 @@
 # Invoice Generator
 ## To start the server
- * type 'node src/server/app.js' from root folder
+ * type 'npm start' from root folder
+ * go to localhost:8080
